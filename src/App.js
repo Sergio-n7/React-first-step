@@ -24,8 +24,6 @@ function App() {
         <Route path='/userdata/:id' component={UserData} />
       </BrowserRouter>
       
-    
-
   );
 }
 
